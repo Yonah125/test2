@@ -1,4 +1,4 @@
-["id": {"id_monu":1, "nom_monu":"Cathedrale Saint-Etienne", "Latitude":49.119754, "Longitude":6.17507, "Importance":1},
+{"id": [{"id_monu":1, "nom_monu":"Cathedrale Saint-Etienne", "Latitude":49.119754, "Longitude":6.17507, "Importance":1},
  {"id_monu":2, "nom_monu":"IUT de Metz", "Latitude":49.120056, "Longitude":6.163743, "Importance":1},
  {"id_monu":3, "nom_monu":"Temple Neuf", "Latitude":49.120673, "Longitude":6.17197, "Importance":1},
  {"id_monu":4, "nom_monu":"Place de la Republique", "Latitude":49.115028, "Longitude":6.172645, "Importance":1},
@@ -11,4 +11,4 @@
  {"id_monu":11, "nom_monu":"Temple de Garnison", "Latitude":49.122611, "Longitude":6.170031, "Importance":3},
  {"id_monu":12, "nom_monu":"Camping municipal", "Latitude":49.124191, "Longitude":6.1669988, "Importance":3},
  {"id_monu":13, "nom_monu":"Tour Camoufle", "Latitude":49.111941, "Longitude":6.1712488, "Importance":3},
- {"id_monu":14, "nom_monu":"Monument aux morts", "Latitude":49.1122222, "Longitude":6.1696604, "Importance":3}]
+ {"id_monu":14, "nom_monu":"Monument aux morts", "Latitude":49.1122222, "Longitude":6.1696604, "Importance":3}]}
